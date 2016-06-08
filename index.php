@@ -25,7 +25,7 @@
 <nav class="navbar navbar-default navbar-fixed-top">
     <div class="navbar-header">
         <div class="container">
-            <a class="navbar-brand" href="index.php">Phoenix's Nest</a>
+            <a class="navbar-brand" href="index.php">SmartPals!</a>
             <ul class="nav navbar-nav">
                 <li><a href='www.google.com'>Home</a></li>
                 <li><a href='www.google.com'>Whatsapp</a></li>
@@ -33,13 +33,12 @@
                 <li><a href='www.google.com'>Instagram</a></li>
 
             </ul>
-        </div>
     </div>
 </nav>
 
 <h1>SmartPals!</h1>
 
 <p>Find pals all over the world on your favourite social medias.</p>
-
+</div>
 </body>
 </html>
