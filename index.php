@@ -25,7 +25,7 @@
 <nav class="navbar navbar-default navbar-fixed-top">
     <div class="navbar-header">
         <div class="container">
-            <a class="navbar-brand" href="index.html">SmartPals!</a>
+            <a class="navbar-brand" href="index.php">SmartPals!</a>
             <ul class="nav navbar-nav">
                 <li><a href='index.html'>Home</a></li>
                 <li><a href='index.html'>Whatsapp</a></li>
